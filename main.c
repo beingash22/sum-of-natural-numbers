@@ -3,7 +3,7 @@
 void main ()
 {
 
-int num;
+int num, i, sum=0;
 scanf ("%d",&num);
 
 if (num>0)
